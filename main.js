@@ -15,19 +15,6 @@ let mySum = 3 + 1918 + 24 + 1;
 let myProduct = 232 * 43 / 2 + 4;
 let myHeightAndAge = myMentalAge + myHeight;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*********************************************************************************************************************
 
  * CODE BELOW HERE IS FOR INTERNAL USE ONLY! IT ENSURES THAT THE TESTING *
